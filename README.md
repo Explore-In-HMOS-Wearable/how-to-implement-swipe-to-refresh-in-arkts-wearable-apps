@@ -21,7 +21,7 @@ This is a pull-to-refresh message list for HarmonyOS Next wearable. It has a Ref
 # Tech Stack
 
 - **Languages**: ArkTS
-- **Frameworks**: HarmonyOS SDK 5.1.0(21)
+- **Frameworks**: HarmonyOS SDK 6.1.0(23)
 - **Tools**: DevEco Studio Vers 6.0.1.251
 - **Libraries**: 
   - @kit.ArkUI, 
