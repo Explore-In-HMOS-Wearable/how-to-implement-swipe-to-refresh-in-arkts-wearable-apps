@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "indicator_cant_refresh",
+      "value": "Couldn't refresh"
+    },
+    {
+      "name": "indicator_pull_to_retry",
+      "value": "Pull to retry"
+    },
+    {
+      "name": "indicator_refreshing",
+      "value": "Refreshing..."
+    },
+    {
+      "name": "indicator_release",
+      "value": "Release to refresh"
+    },
+    {
+      "name": "indicator_pull",
+      "value": "Pull to refresh"
+    },
+    {
+      "name": "footer_loading_older",
+      "value": "Loading older"
+    },
+    {
+      "name": "header_updating",
+      "value": "Updating..."
+    },
+    {
+      "name": "header_update_failed",
+      "value": "Update failed"
+    },
+    {
+      "name": "header_updated_at",
+      "value": "Updated %s"
+    },
+    {
+      "name": "header_new_count",
+      "value": "%d new"
+    }
+  ]
+}

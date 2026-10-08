@@ -1,0 +1,60 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background",
+      "value": "#000000"
+    },
+    {
+      "name": "card",
+      "value": "#2C2C2E"
+    },
+    {
+      "name": "accent",
+      "value": "#0A84FF"
+    },
+    {
+      "name": "warning",
+      "value": "#FF9F0A"
+    },
+    {
+      "name": "muted",
+      "value": "#8E8E93"
+    },
+    {
+      "name": "skeleton",
+      "value": "#3A3A3C"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#C7C7CC"
+    },
+    {
+      "name": "avatar_1",
+      "value": "#0A84FF"
+    },
+    {
+      "name": "avatar_2",
+      "value": "#30D158"
+    },
+    {
+      "name": "avatar_3",
+      "value": "#FF9F0A"
+    },
+    {
+      "name": "avatar_4",
+      "value": "#BF5AF2"
+    },
+    {
+      "name": "avatar_5",
+      "value": "#FF375F"
+    }
+  ]
+}
